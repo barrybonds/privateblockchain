@@ -1,0 +1,22 @@
+{
+  "name": "privateblockchain",
+  "version": "1.0.0",
+  "description": "Simple Blockchain Data Structure",
+  "main": "SimpleChain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrybonds/privateblockchain.git"
+  },
+  "author": "Victor Obaitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrybonds/privateblockchain/issues"
+  },
+  "homepage": "https://github.com/barrybonds/privateblockchain#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
